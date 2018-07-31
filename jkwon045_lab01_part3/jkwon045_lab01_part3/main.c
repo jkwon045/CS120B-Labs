@@ -1,9 +1,11 @@
-/*
- * jkwon045_lab01_part3.c
- *
- * Created: 7/30/2018 2:44:58 PM
- * Author : ucrcse
- */ 
+/*	Partner(s) Name & E-mail: Fei Yao Li fli034@ucr.edu
+ *	Lab Section: 21
+ *	Assignment: Lab # 1 Exercise # 3
+ *	Exercise Description: Parking lot sensor with handicap spots, that has light for parking lot is full
+ *	
+ *	I acknowledge all content contained herein, excluding template or example
+ *	code, is my own original work.
+ */
 
 #include <avr/io.h>
 
